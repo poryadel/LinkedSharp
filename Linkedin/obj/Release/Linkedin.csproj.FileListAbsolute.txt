@@ -1,0 +1,8 @@
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Release\Linkedin.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Release\Linkedin.pdb
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Release\Newtonsoft.Json.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Release\Newtonsoft.Json.xml
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Release\Linkedin.csproj.CoreCompileInputs.cache
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Release\Linkedin.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Release\Linkedin.pdb
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Release\Linkedin.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Debug\Linkedin.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Debug\Linkedin.pdb
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Debug\Newtonsoft.Json.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\bin\Debug\Newtonsoft.Json.xml
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Debug\Linkedin.csprojResolveAssemblyReference.cache
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Debug\Linkedin.csproj.CoreCompileInputs.cache
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Debug\Linkedin.dll
+c:\users\porya\documents\visual studio 2017\Projects\Social Medias API SDK\Linkedin\obj\Debug\Linkedin.pdb
