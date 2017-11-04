@@ -32,5 +32,7 @@ var fullProfileInformation = await Linkedin.Profile.GetInfoAsync("accessToken");
 Just add Linkedin.dll to your DotNet Project and enjoy! 😍
 <h6>Note:</h6> your Newtonsoft.Json version has to match with Linkedin.dll
 
-
+<hr>
+<h2>Follow me!</h2>
+For the latest news, follow <a href="https://twitter.com/porya_del">@Porya_del</a> on Twitter.
 
