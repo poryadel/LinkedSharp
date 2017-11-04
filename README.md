@@ -28,7 +28,9 @@ var fullProfileInformation = await Linkedin.Profile.GetInfoAsync("accessToken");
 
 ![get data from Linkedin](https://kookkon.com/images/linkedin.png)
 
-
+<hr>
+Just add Linkedin.dll to your DotNet Project and enjoy! 😍
+<h6>Note:</h6> your Newtonsoft.Json version has to match with Linkedin.dll
 
 
 
