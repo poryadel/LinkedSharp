@@ -5,18 +5,28 @@ This is an open source 3rd party C# SDK to connect with <a href="https://develop
 
 <hr>
 <h2>Example</h2>
+<h5>Post and share some Text to your linkedin account</h5>
 
 ```
-   Linkedin.LinkedInTextPost newPost = new Linkedin.LinkedInTextPost()
-   {
-       comment = "Your text post",
-       visibility = new Linkedin.Visibility
-       {
-           code = "anyone"
-       }
-   };
+Linkedin.LinkedInTextPost newPost = new Linkedin.LinkedInTextPost()
+{
+    comment = "Your text post",
+    visibility = new Linkedin.Visibility
+    {
+        code = "anyone"
+    }
+};
    var Update = await Linkedin.Post.UpdateStatusAsync("Token", newPost);
 ```
+<hr>
+<h5>Get Linkedin account full information</h5>
+
+```
+var fullProfileInformation = await Linkedin.Profile.GetInfoAsync("accessToken");
+```
+<h6>And the result:</h6>
+
+![get data from Linkedin](https://kookkon.com/images/linkedin.png)
 
 
 
